@@ -18,26 +18,5 @@
         android:stretchMode="columnWidth"
         android:gravity="center"></GridView>
     
-    <ImageView
-    	android:contentDescription="@string/gimage"
-       	android:adjustViewBounds="true"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-	    android:id="@+id/gimage" />
-   
-	    
-	<TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/gp" />
-    
-	    
-	<Button
-	    android:layout_width="wrap_content"
-	    android:layout_height="wrap_content"
-	    android:text="@string/gowin"
-	    android:onClick="goNext" />
-	    
-
 
 </LinearLayout>	

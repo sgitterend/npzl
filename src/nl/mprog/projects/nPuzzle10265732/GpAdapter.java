@@ -39,18 +39,7 @@ public class GpAdapter extends BaseAdapter {
 	public View getView(int position, View convertView, ViewGroup arg2) {
 		ImageView view = imageViews[position];
 		view.setImageBitmap(bmparray[position]);
-		System.out.println("tag[" + position + "] =  " + view.getTag());
 		return view;
-		
-		/*als bovenstaande niet werkt
-		if (convertView == null) {
-			imageView = new ImageView(c);
-		} else {
-			imageView = (ImageView) convertView;
-		}
-				
-		imageView.setImageBitmap(bmparray[position]);
-		/*/
 	}
 	
 	

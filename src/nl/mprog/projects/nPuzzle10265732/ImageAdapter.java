@@ -12,7 +12,7 @@ public class ImageAdapter extends BaseAdapter {
 
 	// load images
 	Context c;
-	int[] images = { R.drawable.grid, R.drawable.cat, R.drawable.tree, R.drawable.mill };
+	int[] images = {R.drawable.cat, R.drawable.tree, R.drawable.mill };
 	
 	
 	public ImageAdapter(Context context) {

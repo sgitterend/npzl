@@ -4,6 +4,8 @@
     tools:context="nl.mprog.projects.nPuzzle10265732.GamePlay" >
     <item android:id="@+id/new_game"
           android:title="@string/new_game" />
+    <item android:id="@+id/shuffle"
+          android:title="@string/shuff" />
     <item android:id="@+id/help"
           android:title="@string/help" />
     <item android:id="@+id/quit"

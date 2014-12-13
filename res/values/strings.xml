@@ -10,12 +10,14 @@
     <string name="quit">Quit</string>
     <string name="title_activity_you_win">Well done!</string>
     <string name="win">Congratulations!</string>
+    <string name="winn">Very well done, in %s moves!</string>
     <string name="gowin">Go ahead and win!</string>
     <string name="gp">This is gameplay</string>
-    <string name="goselect">Level select</string>
+    <string name="goselect">Play Again</string>
     <string name="choice">You have chosen difficulty: %1$sx%1$s, \n image: %2$s</string>
     <string name="gimage">Gameplay image</string>
-    <string name="var">position: %s</string>
+    <string name="shuff">Shuffle</string>
+    
     
     
     <string-array name="dif">
